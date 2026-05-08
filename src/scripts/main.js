@@ -50,3 +50,5 @@ pushNotification(
   'Message example.\n ' + 'Notification should contain title and description.',
   'warning',
 );
+
+// test commit
